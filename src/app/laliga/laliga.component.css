@@ -1,0 +1,48 @@
+table {
+    width: 100%;
+}
+.laliga{
+    margin-top: 100px;
+    text-align: center;
+}
+.mat-elevation-z8{
+    margin-top: 20px;
+    margin:auto;
+    width: 50%;
+}
+
+.textAlign{
+    text-align: center;
+}
+
+.leftTeamStyle{
+    background-color: hsla(209, 94%, 52%, 0.603);
+    opacity: 0.6;
+    cursor: pointer;
+    margin-right: .5rem;
+    border-radius: .1rem;
+    padding: .11rem;
+    color: black;
+    font-weight: bold;
+}
+
+.rightTeamStyle{
+    background-color:  hsla(209, 94%, 52%, 0.603);
+    opacity: 0.6;
+    cursor: pointer;
+    margin-left: .5rem;
+    border-radius: .1rem;
+    padding: .11rem;
+    color: black;
+    font-weight: bold;
+}
+
+.score1{
+    color: red;
+    font-weight: bold;
+}
+
+.score2{
+    color: red;
+    font-weight: bold;
+}
